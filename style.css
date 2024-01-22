@@ -1,0 +1,56 @@
+.back_bg{
+    background-image: url(/image/fotor-ai-2024011183657.jpg);
+    background-size: cover;
+    height: 45em;
+    width: 100%;
+}
+ul{
+    text-align: center;
+    margin-left: 350px;
+    gap: 30px;
+}
+img{
+    border-radius: 50%;
+}
+a{
+    color: beige;
+    text-decoration: none;
+}
+a:hover{
+    color: cadetblue;
+}
+.btn_bg{
+    background-color: rgb(237, 150, 11);
+    border-radius: 30px;
+    width: 90px;
+    height: 50px;
+    border: none;
+}
+.btn_bg:hover{
+    background-color: rgba(95, 158, 160, 0.489);
+}
+h1{
+    color: rgba(179, 14, 14, 0.374);
+    text-align: center;
+    align-items: center;
+    margin-top: 180px;
+    font-size: 50px;
+}
+.exp_btn{
+    width: 120px;
+    height: 50px;
+    background-color: rgb(237, 150, 11);
+    border-radius: 10px;
+    border: none;
+    margin-left: 500px;
+}
+.exp_btn:hover{
+    background-color: rgba(127, 255, 212, 0.377);
+}
+.bar_mr{
+    display: inline-flexbox;
+    justify-content: center;
+}
+.sign_btn{
+    margin-left: 250px;
+}
