@@ -1,1 +1,1 @@
-# codsoft-task2
+# veritech intern 2
